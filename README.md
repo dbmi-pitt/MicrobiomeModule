@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/164003850.svg)](https://zenodo.org/badge/latestdoi/164003850)
+
 # MicrobiomeModule
 Module for teaching microbiome analysis in an introductory programming course. 
 
